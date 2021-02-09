@@ -4,4 +4,4 @@ This repository addresses public transportation mobility analysis as discussed i
 
 Kais Suleiman, "Popular Content Distribution in Public Transportation Using Artificial Intelligence Techniques.", Ph.D. thesis, University of Waterloo, Ontario, Canada, 2019.
 
-Two programming languages are used, namely: Python and MATLAB.
+The code used for the entire mobility analysis is provided twice using two programming languages, namely: Python and MATLAB. 
