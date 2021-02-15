@@ -1403,7 +1403,7 @@ figure2.savefig('zoomed-in connectivities at 5 pm.png', dpi = 500)
 
 # The extractClusters function:
 
-def extractClusters(self, period_start_time, period_end_time, \
+def extractClusters(period_start_time, period_end_time, \
                     connectivities, time_delta, \
                         minimum_contact_duration, \
                             maximum_number_of_hops):
